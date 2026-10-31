@@ -1,0 +1,145 @@
+body {
+    background-color: #fff700;
+}
+
+.eyeball {
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+    border: 60px white solid;
+    border-radius: 80%
+    left: 50%;
+    transform: translate(-50%, -50%);
+   align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    margin-left: 400px;
+}
+
+.eyeball2 {
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+    border: 60px white solid;
+    border-radius: 80%
+    left: 50%;
+    transform: translate(-50%, -50%);
+   align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    margin-left: 800px;
+}
+
+.teeth {
+  background-color: #000000;
+ position:absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+  bottom:20%;
+  transform: translateX(-50%);
+  width: 900px;
+  height: 300px
+  
+  
+}
+
+.tooth {
+    color:white;
+    border: 20px white solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 30px;
+    margin-right: 900px;
+}
+.tooth1 {
+    color:white;
+    border: 10px rgb(255, 252, 252) solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 90px;
+    margin-right: 900px;
+    position: absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+  transform: translateX(-50%);
+}
+.tooth2 {   
+    color:rgb(7, 7, 7);
+    border: 10px rgb(252, 250, 250) solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 60px;
+    margin-right: 720px;
+    position: absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.tooth3 {   
+    color:rgb(7, 7, 7);
+    border: 10px rgb(252, 250, 250) solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 120px;
+    margin-right: 680px;
+    position: absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.tooth4 {   
+    color:rgb(7, 7, 7);
+    border: 10px rgb(252, 250, 250) solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 150px;
+    margin-right: 6200px;
+    position: absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+}
+
+.tooth5 {   
+    color:rgb(7, 7, 7);
+    border: 10px rgb(252, 250, 250) solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 170px;
+    margin-right: 580px;
+    position: absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+}
+
+.tooth6 {   
+    color:rgb(7, 7, 7);
+    border: 10px rgb(252, 250, 250) solid;
+    position:relative;
+    margin: top 30px;
+    margin-left: 200px;
+    margin-right: 540px;
+    position: absolute;
+  top: calc(50% + 140px);
+  left: 50%;
+}
+
+.tongue {
+    border-color: #000000;
+    border-width: 100px;
+    width: 900px;
+    height: 90px;
+    background-color: #ff0000;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    top: calc(50% + 200px);
+    left: 50%;
+    transform: translateX(-50%);
+
+margin-bottom: 60px;
+position:inherit;
+}
